@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>C++ &#8211; CodingPathshala</title>
+	<atom:link href="https://prajwal0850.github.io/codingpathshala/tag/c/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<description>Coding: Where Logic Becomes Magic</description>
+	<lastBuildDate>Thu, 04 Jan 2024 11:27:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://prajwal0850.github.io/codingpathshala/wp-content/uploads/2024/01/aa-removebg-preview.png</url>
+	<title>C++ &#8211; CodingPathshala</title>
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>C++ Language</title>
+		<link>https://prajwal0850.github.io/codingpathshala/c-language/</link>
+					<comments>https://prajwal0850.github.io/codingpathshala/c-language/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 11:27:13 +0000</pubDate>
+				<category><![CDATA[C++ Language]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[C++forbeginers]]></category>
+		<category><![CDATA[c++language]]></category>
+		<guid isPermaLink="false">https://prajwal0850.github.io/codingpathshala/?p=29</guid>
+
+					<description><![CDATA[What is C++? C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup, as an extension to the&#160;C language. C++ gives programmers a high level of control over system resources and memory. The language was updated 4 major times in 2011,<a class="moretag" href="https://prajwal0850.github.io/codingpathshala/c-language/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">What is C++?</h2>
+
+
+
+<p>C++ is a cross-platform language that can be used to create high-performance applications.</p>
+
+
+
+<p>C++ was developed by Bjarne Stroustrup, as an extension to the&nbsp;<a href="https://www.w3schools.com/c/index.php">C language</a>.</p>
+
+
+
+<p>C++ gives programmers a high level of control over system resources and memory.</p>
+
+
+
+<p>The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Why Use C++</h2>
+
+
+
+<p>C++ is one of the world&#8217;s most popular programming languages.</p>
+
+
+
+<p>C++ can be found in today&#8217;s operating systems, Graphical User Interfaces, and embedded systems.</p>
+
+
+
+<p>C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs.</p>
+
+
+
+<p>C++ is portable and can be used to develop applications that can be adapted to multiple platforms.</p>
+
+
+
+<p>C++ is fun and easy to learn!</p>
+
+
+
+<p>As C++ is close to&nbsp;<a href="https://www.w3schools.com/c/index.php">C</a>,&nbsp;<a href="https://www.w3schools.com/cs/index.php">C#</a>&nbsp;and&nbsp;<a href="https://www.w3schools.com/java/default.asp">Java</a>, it makes it easy for programmers to switch to C++ or vice versa.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Difference between C and C++</h2>
+
+
+
+<p>C++ was developed as an extension of&nbsp;<a href="https://www.w3schools.com/c/index.php">C</a>, and both languages have almost the same syntax.</p>
+
+
+
+<p>The main difference between C and C++ is that C++ support classes and objects, while C does not.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Get Started</h2>
+
+
+
+<p>This tutorial will teach you the basics of C++.</p>
+
+
+
+<p>It is not necessary to have any prior programming experience.<a href="https://www.w3schools.com/cpp/cpp_getstarted.asp">Get Started »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prajwal0850.github.io/codingpathshala/c-language/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

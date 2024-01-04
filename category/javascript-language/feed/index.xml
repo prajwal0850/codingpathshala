@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Javascript Language &#8211; CodingPathshala</title>
+	<atom:link href="https://prajwal0850.github.io/codingpathshala/category/javascript-language/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<description>Coding: Where Logic Becomes Magic</description>
+	<lastBuildDate>Thu, 04 Jan 2024 11:53:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://prajwal0850.github.io/codingpathshala/wp-content/uploads/2024/01/aa-removebg-preview.png</url>
+	<title>Javascript Language &#8211; CodingPathshala</title>
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>JavaScript Programming</title>
+		<link>https://prajwal0850.github.io/codingpathshala/javascript-programming/</link>
+					<comments>https://prajwal0850.github.io/codingpathshala/javascript-programming/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 11:25:17 +0000</pubDate>
+				<category><![CDATA[Javascript Language]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[javascriptforbeginers]]></category>
+		<category><![CDATA[javascriptlanguage]]></category>
+		<guid isPermaLink="false">https://prajwal0850.github.io/codingpathshala/?p=26</guid>
+
+					<description><![CDATA[Prototype-based Object-oriented&#160;&#8211; JavaScript is an object-oriented programming language. It used prototypes instead of classes. Objects are used to represent the real-world entity in the program. Interpreted Language&#160;&#8211; JavaScript is an interpreted programming language. It uses a just-in-time compilation technique at run-time. Event-Based Programming&#160;&#8211; JavaScript allows us to write codes that<a class="moretag" href="https://prajwal0850.github.io/codingpathshala/javascript-programming/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading" id="about"></h2>
+
+
+
+<p><strong>Prototype-based Object-oriented</strong>&nbsp;&#8211; JavaScript is an object-oriented programming language. It used prototypes instead of classes. Objects are used to represent the real-world entity in the program.</p>
+
+
+
+<p><strong>Interpreted Language</strong>&nbsp;&#8211; JavaScript is an interpreted programming language. It uses a just-in-time compilation technique at run-time.</p>
+
+
+
+<p><strong>Event-Based Programming</strong>&nbsp;&#8211; JavaScript allows us to write codes that are executed differently under different events.</p>
+
+
+
+<p><strong>Platform Independence</strong>&nbsp;&#8211; JavaScript codes are run on browsers. So irrespective of the machine, if the browser supports JavaScript, codes can run.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="why">Why Learn JavaScript?</h2>
+
+
+
+<ul>
+<li>JavaScript is used on both the client-side and the server-side. On the client-side, the code is run and displayed by the browser. On the server-side, Node.js is used.</li>
+
+
+
+<li>JavaScript is a platform-independent language. Any browser supporting JavaScript can run the code irrespective of the operating system</li>
+
+
+
+<li>JavaScript uses the&nbsp;<strong>just-in-time compilation</strong>&nbsp;technique. Since the compilation is handled at run time, JavaScript is considered an interpreted language.</li>
+
+
+
+<li>JavaScript is a dynamically typed language. That is, a variable containing a number may be reassigned to a string.</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="how">How to learn JavaScript?</h2>
+
+
+
+<ul>
+<li><strong>JavaScript Tutorial from Programiz</strong>&nbsp;&#8211; We provide step by step tutorials along with library functions and examples.&nbsp;<a href="https://www.programiz.com/javascript/comments">Get started with JavaScript</a>.</li>
+
+
+
+<li><strong>MDN Web Docs</strong>&nbsp;&#8211; It provides one of the best resources to learn JavaScript from basics to advance. Visit&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">MDN-JavaScript Basics</a>.</li>
+
+
+
+<li><strong>Write a lot of Code</strong>&nbsp;&#8211; The only way you can learn programming is practice daily and write a lot of codes</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="resources">JavaScript Resources</h2>
+
+
+
+<ul>
+<li><a href="https://www.programiz.com/javascript/examples">JavaScript Examples</a></li>
+
+
+
+<li><a href="https://www.programiz.com/javascript/library">JavaScript Library Functions</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prajwal0850.github.io/codingpathshala/javascript-programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

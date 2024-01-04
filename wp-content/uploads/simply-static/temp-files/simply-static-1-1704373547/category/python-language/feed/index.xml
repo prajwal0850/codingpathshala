@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Python Language &#8211; CodingPathshala</title>
+	<atom:link href="https://prajwal0850.github.io/codingpathshala/category/python-language/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<description>Coding: Where Logic Becomes Magic</description>
+	<lastBuildDate>Thu, 04 Jan 2024 11:20:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://prajwal0850.github.io/codingpathshala/wp-content/uploads/2024/01/aa-removebg-preview.png</url>
+	<title>Python Language &#8211; CodingPathshala</title>
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Python Programming</title>
+		<link>https://prajwal0850.github.io/codingpathshala/python-programming/</link>
+					<comments>https://prajwal0850.github.io/codingpathshala/python-programming/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 11:20:22 +0000</pubDate>
+				<category><![CDATA[Python Language]]></category>
+		<category><![CDATA[pyhtonlanguage]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[pythonforbeginners]]></category>
+		<guid isPermaLink="false">https://prajwal0850.github.io/codingpathshala/?p=20</guid>
+
+					<description><![CDATA[What is Python? Python is a popular programming language. It was created by Guido van Rossum, and released in 1991. It is used for: What can Python do? Why Python? Good to know Python Syntax compared to other programming languages]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">What is Python?</h2>
+
+
+
+<p>Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.</p>
+
+
+
+<p>It is used for:</p>
+
+
+
+<ul>
+<li>web development (server-side),</li>
+
+
+
+<li>software development,</li>
+
+
+
+<li>mathematics,</li>
+
+
+
+<li>system scripting.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">What can Python do?</h3>
+
+
+
+<ul>
+<li>Python can be used on a server to create web applications.</li>
+
+
+
+<li>Python can be used alongside software to create workflows.</li>
+
+
+
+<li>Python can connect to database systems. It can also read and modify files.</li>
+
+
+
+<li>Python can be used to handle big data and perform complex mathematics.</li>
+
+
+
+<li>Python can be used for rapid prototyping, or for production-ready software development.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Why Python?</h3>
+
+
+
+<ul>
+<li>Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).</li>
+
+
+
+<li>Python has a simple syntax similar to the English language.</li>
+
+
+
+<li>Python has syntax that allows developers to write programs with fewer lines than some other programming languages.</li>
+
+
+
+<li>Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.</li>
+
+
+
+<li>Python can be treated in a procedural way, an object-oriented way or a functional way.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Good to know</h3>
+
+
+
+<ul>
+<li>The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.</li>
+
+
+
+<li>In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Python Syntax compared to other programming languages</h3>
+
+
+
+<ul>
+<li>Python was designed for readability, and has some similarities to the English language with influence from mathematics.</li>
+
+
+
+<li>Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.</li>
+
+
+
+<li>Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"></h3>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prajwal0850.github.io/codingpathshala/python-programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

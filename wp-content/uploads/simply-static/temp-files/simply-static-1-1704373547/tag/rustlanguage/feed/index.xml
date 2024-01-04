@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rustlanguage &#8211; CodingPathshala</title>
+	<atom:link href="https://prajwal0850.github.io/codingpathshala/tag/rustlanguage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<description>Coding: Where Logic Becomes Magic</description>
+	<lastBuildDate>Thu, 04 Jan 2024 11:52:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://prajwal0850.github.io/codingpathshala/wp-content/uploads/2024/01/aa-removebg-preview.png</url>
+	<title>rustlanguage &#8211; CodingPathshala</title>
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rust Language</title>
+		<link>https://prajwal0850.github.io/codingpathshala/rust-language/</link>
+					<comments>https://prajwal0850.github.io/codingpathshala/rust-language/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 11:52:17 +0000</pubDate>
+				<category><![CDATA[Rust Language]]></category>
+		<category><![CDATA[rust]]></category>
+		<category><![CDATA[rustforbeginers]]></category>
+		<category><![CDATA[rustlanguage]]></category>
+		<guid isPermaLink="false">https://prajwal0850.github.io/codingpathshala/?p=32</guid>
+
+					<description><![CDATA[Rust is a blazing fast and memory-efficient static compiled language with a rich type system and ownership model. It can be used to power performance-critical services while guaranteeing memory-safety and thread-safety, empowering developers to debug at compile-time. In addition to that Rust has great documentation and a user-friendly compiler with<a class="moretag" href="https://prajwal0850.github.io/codingpathshala/rust-language/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Rust is a blazing fast and memory-efficient static compiled language with a rich type system and ownership model. It can be used to power performance-critical services while guaranteeing memory-safety and thread-safety, empowering developers to debug at compile-time. In addition to that Rust has great documentation and a user-friendly compiler with top-end tools like integrated package managers and multi-editor with features like type inspection and auto-completion. Rust prevents all the crashes, and it is very interesting that rust is safe by default like JavaScript, Ruby, and Python. This is much more powerful than C/C++ because we cannot write the wrong parallel code you can never see fault in rust. It is very fast in representing a lot of programming paradigms very well. </p>
+
+
+
+<p></p>
+
+
+
+<p>But the question arises as there are already so many programming languages like Python, C++, Java, etc, then why the need for developing a new programming language? The answer to this is the other programming languages have a lot of control over the hardware that you are running, like, you can optimize it well, translate directly to assembly code, but it’s not very safe.</p>
+
+
+
+<p>So rust provides us all the controls that we can have and all the levels of security that we can achieve.</p>
+
+
+
+<p><em><strong>Rust is using Rust</strong></em>&nbsp;which means that all the standard compiler libraries are written in rust; there is a bit of use of the C programming language but most of it is Rust. The big project of Rust is&nbsp;<em>“servo”</em>, &nbsp;It is a project to write out the totally parallel layout engine like Gecko in Firefox or WebKit in Safari.</p>
+
+
+
+<p>Servo built the layout engine, something to render HTML from bottom to top.</p>
+
+
+
+<h3 class="wp-block-heading">Functions in Rust:</h3>
+
+
+
+<p>Functions are the block of reusable code that can perform similar related actions. You have already seen one of the most important functions in the language: the main function, which is the entry point of many programs. You’ve also seen the “fn” keyword, which allows you to declare new functions. Rust code uses snake case as the conventional style for function and variable names. In snake case, all letters are lowercase and underscore separate words.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prajwal0850.github.io/codingpathshala/rust-language/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

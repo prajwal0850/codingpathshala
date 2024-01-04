@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; CodingPathshala</title>
+	<atom:link href="https://prajwal0850.github.io/codingpathshala/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<description>Coding: Where Logic Becomes Magic</description>
+	<lastBuildDate>Thu, 04 Jan 2024 11:53:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://prajwal0850.github.io/codingpathshala/wp-content/uploads/2024/01/aa-removebg-preview.png</url>
+	<title>admin &#8211; CodingPathshala</title>
+	<link>https://prajwal0850.github.io/codingpathshala</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rust Language</title>
+		<link>https://prajwal0850.github.io/codingpathshala/rust-language/</link>
+					<comments>https://prajwal0850.github.io/codingpathshala/rust-language/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 11:52:17 +0000</pubDate>
+				<category><![CDATA[Rust Language]]></category>
+		<category><![CDATA[rust]]></category>
+		<category><![CDATA[rustforbeginers]]></category>
+		<category><![CDATA[rustlanguage]]></category>
+		<guid isPermaLink="false">https://prajwal0850.github.io/codingpathshala/?p=32</guid>
+
+					<description><![CDATA[Rust is a blazing fast and memory-efficient static compiled language with a rich type system and ownership model. It can be used to power performance-critical services while guaranteeing memory-safety and thread-safety, empowering developers to debug at compile-time. In addition to that Rust has great documentation and a user-friendly compiler with<a class="moretag" href="https://prajwal0850.github.io/codingpathshala/rust-language/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Rust is a blazing fast and memory-efficient static compiled language with a rich type system and ownership model. It can be used to power performance-critical services while guaranteeing memory-safety and thread-safety, empowering developers to debug at compile-time. In addition to that Rust has great documentation and a user-friendly compiler with top-end tools like integrated package managers and multi-editor with features like type inspection and auto-completion. Rust prevents all the crashes, and it is very interesting that rust is safe by default like JavaScript, Ruby, and Python. This is much more powerful than C/C++ because we cannot write the wrong parallel code you can never see fault in rust. It is very fast in representing a lot of programming paradigms very well. </p>
+
+
+
+<p></p>
+
+
+
+<p>But the question arises as there are already so many programming languages like Python, C++, Java, etc, then why the need for developing a new programming language? The answer to this is the other programming languages have a lot of control over the hardware that you are running, like, you can optimize it well, translate directly to assembly code, but it’s not very safe.</p>
+
+
+
+<p>So rust provides us all the controls that we can have and all the levels of security that we can achieve.</p>
+
+
+
+<p><em><strong>Rust is using Rust</strong></em>&nbsp;which means that all the standard compiler libraries are written in rust; there is a bit of use of the C programming language but most of it is Rust. The big project of Rust is&nbsp;<em>“servo”</em>, &nbsp;It is a project to write out the totally parallel layout engine like Gecko in Firefox or WebKit in Safari.</p>
+
+
+
+<p>Servo built the layout engine, something to render HTML from bottom to top.</p>
+
+
+
+<h3 class="wp-block-heading">Functions in Rust:</h3>
+
+
+
+<p>Functions are the block of reusable code that can perform similar related actions. You have already seen one of the most important functions in the language: the main function, which is the entry point of many programs. You’ve also seen the “fn” keyword, which allows you to declare new functions. Rust code uses snake case as the conventional style for function and variable names. In snake case, all letters are lowercase and underscore separate words.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prajwal0850.github.io/codingpathshala/rust-language/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>C++ Language</title>
+		<link>https://prajwal0850.github.io/codingpathshala/c-language/</link>
+					<comments>https://prajwal0850.github.io/codingpathshala/c-language/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 11:27:13 +0000</pubDate>
+				<category><![CDATA[C++ Language]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[C++forbeginers]]></category>
+		<category><![CDATA[c++language]]></category>
+		<guid isPermaLink="false">https://prajwal0850.github.io/codingpathshala/?p=29</guid>
+
+					<description><![CDATA[What is C++? C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup, as an extension to the&#160;C language. C++ gives programmers a high level of control over system resources and memory. The language was updated 4 major times in 2011,<a class="moretag" href="https://prajwal0850.github.io/codingpathshala/c-language/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">What is C++?</h2>
+
+
+
+<p>C++ is a cross-platform language that can be used to create high-performance applications.</p>
+
+
+
+<p>C++ was developed by Bjarne Stroustrup, as an extension to the&nbsp;<a href="https://www.w3schools.com/c/index.php">C language</a>.</p>
+
+
+
+<p>C++ gives programmers a high level of control over system resources and memory.</p>
+
+
+
+<p>The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Why Use C++</h2>
+
+
+
+<p>C++ is one of the world&#8217;s most popular programming languages.</p>
+
+
+
+<p>C++ can be found in today&#8217;s operating systems, Graphical User Interfaces, and embedded systems.</p>
+
+
+
+<p>C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs.</p>
+
+
+
+<p>C++ is portable and can be used to develop applications that can be adapted to multiple platforms.</p>
+
+
+
+<p>C++ is fun and easy to learn!</p>
+
+
+
+<p>As C++ is close to&nbsp;<a href="https://www.w3schools.com/c/index.php">C</a>,&nbsp;<a href="https://www.w3schools.com/cs/index.php">C#</a>&nbsp;and&nbsp;<a href="https://www.w3schools.com/java/default.asp">Java</a>, it makes it easy for programmers to switch to C++ or vice versa.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Difference between C and C++</h2>
+
+
+
+<p>C++ was developed as an extension of&nbsp;<a href="https://www.w3schools.com/c/index.php">C</a>, and both languages have almost the same syntax.</p>
+
+
+
+<p>The main difference between C and C++ is that C++ support classes and objects, while C does not.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Get Started</h2>
+
+
+
+<p>This tutorial will teach you the basics of C++.</p>
+
+
+
+<p>It is not necessary to have any prior programming experience.<a href="https://www.w3schools.com/cpp/cpp_getstarted.asp">Get Started »</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prajwal0850.github.io/codingpathshala/c-language/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JavaScript Programming</title>
+		<link>https://prajwal0850.github.io/codingpathshala/javascript-programming/</link>
+					<comments>https://prajwal0850.github.io/codingpathshala/javascript-programming/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 11:25:17 +0000</pubDate>
+				<category><![CDATA[Javascript Language]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[javascriptforbeginers]]></category>
+		<category><![CDATA[javascriptlanguage]]></category>
+		<guid isPermaLink="false">https://prajwal0850.github.io/codingpathshala/?p=26</guid>
+
+					<description><![CDATA[Prototype-based Object-oriented&#160;&#8211; JavaScript is an object-oriented programming language. It used prototypes instead of classes. Objects are used to represent the real-world entity in the program. Interpreted Language&#160;&#8211; JavaScript is an interpreted programming language. It uses a just-in-time compilation technique at run-time. Event-Based Programming&#160;&#8211; JavaScript allows us to write codes that<a class="moretag" href="https://prajwal0850.github.io/codingpathshala/javascript-programming/"> Read more&#8230;</a>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading" id="about"></h2>
+
+
+
+<p><strong>Prototype-based Object-oriented</strong>&nbsp;&#8211; JavaScript is an object-oriented programming language. It used prototypes instead of classes. Objects are used to represent the real-world entity in the program.</p>
+
+
+
+<p><strong>Interpreted Language</strong>&nbsp;&#8211; JavaScript is an interpreted programming language. It uses a just-in-time compilation technique at run-time.</p>
+
+
+
+<p><strong>Event-Based Programming</strong>&nbsp;&#8211; JavaScript allows us to write codes that are executed differently under different events.</p>
+
+
+
+<p><strong>Platform Independence</strong>&nbsp;&#8211; JavaScript codes are run on browsers. So irrespective of the machine, if the browser supports JavaScript, codes can run.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="why">Why Learn JavaScript?</h2>
+
+
+
+<ul>
+<li>JavaScript is used on both the client-side and the server-side. On the client-side, the code is run and displayed by the browser. On the server-side, Node.js is used.</li>
+
+
+
+<li>JavaScript is a platform-independent language. Any browser supporting JavaScript can run the code irrespective of the operating system</li>
+
+
+
+<li>JavaScript uses the&nbsp;<strong>just-in-time compilation</strong>&nbsp;technique. Since the compilation is handled at run time, JavaScript is considered an interpreted language.</li>
+
+
+
+<li>JavaScript is a dynamically typed language. That is, a variable containing a number may be reassigned to a string.</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="how">How to learn JavaScript?</h2>
+
+
+
+<ul>
+<li><strong>JavaScript Tutorial from Programiz</strong>&nbsp;&#8211; We provide step by step tutorials along with library functions and examples.&nbsp;<a href="https://www.programiz.com/javascript/comments">Get started with JavaScript</a>.</li>
+
+
+
+<li><strong>MDN Web Docs</strong>&nbsp;&#8211; It provides one of the best resources to learn JavaScript from basics to advance. Visit&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">MDN-JavaScript Basics</a>.</li>
+
+
+
+<li><strong>Write a lot of Code</strong>&nbsp;&#8211; The only way you can learn programming is practice daily and write a lot of codes</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading" id="resources">JavaScript Resources</h2>
+
+
+
+<ul>
+<li><a href="https://www.programiz.com/javascript/examples">JavaScript Examples</a></li>
+
+
+
+<li><a href="https://www.programiz.com/javascript/library">JavaScript Library Functions</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prajwal0850.github.io/codingpathshala/javascript-programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Java Programming</title>
+		<link>https://prajwal0850.github.io/codingpathshala/java-programming/</link>
+					<comments>https://prajwal0850.github.io/codingpathshala/java-programming/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 11:22:47 +0000</pubDate>
+				<category><![CDATA[Java Language]]></category>
+		<category><![CDATA[java]]></category>
+		<category><![CDATA[javaforbeginers]]></category>
+		<category><![CDATA[javalanguage]]></category>
+		<guid isPermaLink="false">https://prajwal0850.github.io/codingpathshala/?p=23</guid>
+
+					<description><![CDATA[What is Java? Java is a popular programming language, created in 1995. It is owned by Oracle, and more than&#160;3 billion&#160;devices run Java. It is used for: Why Use Java?]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">What is Java?</h2>
+
+
+
+<p>Java is a popular programming language, created in 1995.</p>
+
+
+
+<p>It is owned by Oracle, and more than&nbsp;<strong>3 billion</strong>&nbsp;devices run Java.</p>
+
+
+
+<p>It is used for:</p>
+
+
+
+<ul>
+<li>Mobile applications (specially Android apps)</li>
+
+
+
+<li>Desktop applications</li>
+
+
+
+<li>Web applications</li>
+
+
+
+<li>Web servers and application servers</li>
+
+
+
+<li>Games</li>
+
+
+
+<li>Database connection</li>
+
+
+
+<li>And much, much more!</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Why Use Java?</h2>
+
+
+
+<ul>
+<li>Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)</li>
+
+
+
+<li>It is one of the most popular programming language in the world</li>
+
+
+
+<li>It has a large demand in the current job market</li>
+
+
+
+<li>It is easy to learn and simple to use</li>
+
+
+
+<li>It is open-source and free</li>
+
+
+
+<li>It is secure, fast and powerful</li>
+
+
+
+<li>It has a huge community support (tens of millions of developers)</li>
+
+
+
+<li>Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs</li>
+
+
+
+<li>As Java is close to&nbsp;<a href="https://www.w3schools.com/cpp/default.asp">C++</a>&nbsp;and&nbsp;<a href="https://www.w3schools.com/cs/default.asp">C#</a>, it makes it easy for programmers to switch to Java or vice versa</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prajwal0850.github.io/codingpathshala/java-programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Python Programming</title>
+		<link>https://prajwal0850.github.io/codingpathshala/python-programming/</link>
+					<comments>https://prajwal0850.github.io/codingpathshala/python-programming/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 04 Jan 2024 11:20:22 +0000</pubDate>
+				<category><![CDATA[Python Language]]></category>
+		<category><![CDATA[pyhtonlanguage]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[pythonforbeginners]]></category>
+		<guid isPermaLink="false">https://prajwal0850.github.io/codingpathshala/?p=20</guid>
+
+					<description><![CDATA[What is Python? Python is a popular programming language. It was created by Guido van Rossum, and released in 1991. It is used for: What can Python do? Why Python? Good to know Python Syntax compared to other programming languages]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">What is Python?</h2>
+
+
+
+<p>Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.</p>
+
+
+
+<p>It is used for:</p>
+
+
+
+<ul>
+<li>web development (server-side),</li>
+
+
+
+<li>software development,</li>
+
+
+
+<li>mathematics,</li>
+
+
+
+<li>system scripting.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">What can Python do?</h3>
+
+
+
+<ul>
+<li>Python can be used on a server to create web applications.</li>
+
+
+
+<li>Python can be used alongside software to create workflows.</li>
+
+
+
+<li>Python can connect to database systems. It can also read and modify files.</li>
+
+
+
+<li>Python can be used to handle big data and perform complex mathematics.</li>
+
+
+
+<li>Python can be used for rapid prototyping, or for production-ready software development.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Why Python?</h3>
+
+
+
+<ul>
+<li>Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).</li>
+
+
+
+<li>Python has a simple syntax similar to the English language.</li>
+
+
+
+<li>Python has syntax that allows developers to write programs with fewer lines than some other programming languages.</li>
+
+
+
+<li>Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.</li>
+
+
+
+<li>Python can be treated in a procedural way, an object-oriented way or a functional way.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Good to know</h3>
+
+
+
+<ul>
+<li>The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.</li>
+
+
+
+<li>In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Python Syntax compared to other programming languages</h3>
+
+
+
+<ul>
+<li>Python was designed for readability, and has some similarities to the English language with influence from mathematics.</li>
+
+
+
+<li>Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.</li>
+
+
+
+<li>Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"></h3>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://prajwal0850.github.io/codingpathshala/python-programming/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
